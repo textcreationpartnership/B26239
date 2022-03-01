@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>French kings manifesto, or proposals of peace with the Emperor and allies. Propounded on the behalf of France. Translated from the Dutch original, published at the Hague, by the authority of the states of Holland and West-Friesland. Licensed according to order.</title>
+            <author>France. Sovereign (1643-1715: Louis XIV)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26239</idno>
+            <idno type="STC">Wing L3127B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.23[97]</idno>
+            <idno type="STC">ESTC R226373</idno>
+            <idno type="EEBO-CITATION">99886685</idno>
+            <idno type="PROQUEST">ocm99886685</idno>
+            <idno type="VID">187658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B26239)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187658)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:2[94])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>French kings manifesto, or proposals of peace with the Emperor and allies. Propounded on the behalf of France. Translated from the Dutch original, published at the Hague, by the authority of the states of Holland and West-Friesland. Licensed according to order.</title>
+                  <author>France. Sovereign (1643-1715: Louis XIV)</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Wallis near Fleetstreet.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Wing CD-ROM, 1996 adds an apostrophe to 'Kings'.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print faded; missing print at head of p. [2].</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Louis --  XIV, --  King of France, 1638-1715 --  Early works to 1800.</term>
+               <term>Grand Alliance, War of the, 1689-1697 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187658:1"/>
+            <pb facs="tcp:187658:1" rendition="simple:additions"/>
+            <head>French Kings Manifeſto, PROPOSALS of PEACE with the Emperor and Allies. Propounded on the Behalf of <hi>France.</hi>
+            </head>
+            <p>Tranſlated from the <hi>Dutch</hi> Original, Publiſhed at the HAGUE, by the Authority of the States of <hi>Holland</hi> and <hi>Weſt-Frieſland.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licenſed according to Order.</p>
+               </body>
+            </floatingText>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I <hi>Have at laſt procur'd what you have ſo long deſir'd of me,</hi> viz. <hi>An exact Copy of the</hi> French <hi>King's</hi> Manifeſto, <hi>which he cauſed to be diſperſed all along the</hi> Rhine, <hi>by the Officers of the</hi> Dauphin<hi>'s Army, to invite the Emperor and Empire to a ſpeedy Peace; it is publiſhed here by the</hi> Sieur ...... <hi>in this Monthly Remarks, with the States Licenſe.</hi>
+               </p>
+               <floatingText xml:lang="eng" type="manifesto">
+                  <body>
+                     <p>Several Princes of the Empire earneſtly deſiring, that the Moſt Chriſtian King would un<g ref="char:EOLhyphen"/>boſom himſelf, upon what reaſonable and juſt Conditions, he would be willing to agree to a Peace, and ſpeedily ſtop the ſhedding of Chriſtian Blood; His Majeſty finds himſelf ob<g ref="char:EOLhyphen"/>lig'd no longer to defer the making known, as well by the Intereſt of the King of <hi>Sweden,</hi> who firſt offered his Mediation, as by other Princes moſt deſirous of the Publick Peace, the Terms upon which it may be Re-eſtabliſh'd, with all the ſecurities that can be recipro<g ref="char:EOLhyphen"/>cally deſir'd, to render it everlaſting, and to prevent its being diſturb'd, by any Perſons whatſoever.</p>
+                     <p>To which purpoſe the King deſires, that the Treatiſe of <hi>Weſtphalia</hi> and <hi>Nimeghen</hi> may re<g ref="char:EOLhyphen"/>main in full Force and Vigour. That that which was agreed on at <hi>Ratisbonne,</hi> in <hi>Aug.</hi> 1684. under the name of a Truce for 20 years, may be changed into a Treaty of Peace Defenſive, with ſuch Conditions as ſhall be hereafter explain'd, and which ought to ſerve for a convin<g ref="char:EOLhyphen"/>cing Proof to the whole Empire, that His Majeſty does not in the leaſt think of making any new Conqueſts, but only to eſtabliſh anew, and confirm, as well for himſelf as his Succeſſors, a good and intire Correſpondence, as well with the Empire, as with the Princes and States of <hi>Germany;</hi> having this in his Thoughts, that in lieu for the City and Cittadel of <hi>Straſ<g ref="char:EOLhyphen"/>burgh,</hi> which the Moſt Chriſtian King is in Poſſeſſion of, and which he expects to keep unchangeable to himſelf and his Succeſſors; firſt that <hi>Trarback</hi> and <hi>Montroyal</hi> ſhall be rais'd, and reſtor'd to the Prince, to whom they appertain, and that neither of thoſe Two Poſts be Fortified again. 2dly. That all the Fortifications of Fort <hi>Lewis</hi> and <hi>Hunninghen</hi> that are beyond the <hi>Rhine,</hi> ſhall be likewiſe deſtroyed. 3dly. The moſt Chriſtian King offers to ſurrender <hi>Phillipsburgh,</hi> Fortify'd with the Fortreſs, and <hi>Friburgh</hi> in the ſame Circumſtances they are in at preſent. His Majeſty is perſuaded, that all the States and Princes of the Em<g ref="char:EOLhyphen"/>pire who <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Peace, will be perſuaded that <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uch advantagious offers will not only be a ſufficient to recompence for the City and Fortreſs of <hi>Strasburgh;</hi> but alſo to ſerve as a Pledg and Aſſurance of His Majeſties ſincerity to hold an intire Correſpondence with them, and to remove for the time to come, all occaſions of Diſturbance and Diſtruſt; they cannot tru<g ref="char:EOLhyphen"/>ly deſire a greater demonſtration of it, than th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> quitting a Place of ſuch Conſequence, as <hi>Montroyal,</hi> which His Majeſty has caus'd to be made almoſt Impregnable, by the Fortifica<g ref="char:EOLhyphen"/>tions, which he has rais'd about it, thereby ſacrificing to the good of Peace, thoſe immenc'd Expences he has been at to deliver all the Neighbouring States from the juſt Diſturbance which that Fortreſs might give them. That of <hi>Philipsburgh,</hi> which His Majeſty poſſeſs'd near Twenty Years by Virtue of the <hi>Munſter</hi> Treaty, is of no leſs importance; and as he has added ſtrong Fortifications to it ſince he took it laſt, at preſent, that it is return'd to him by Right of War, he might reap great Advant<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>es, if he were not convinced that the Peace which he offers to make would never be alter'd on either ſide: 'Tis on that account alſo that the Moſt Chriſtia<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> King is willing to deſtroy the Fortifications which are beyond the <hi>Rhine,</hi> as well <hi>Fort Lewis</hi> as <hi>Hunninghen,</hi> and to r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tore to the Emperor <hi>Friburg;</hi> the Forti<g ref="char:EOLhyphen"/>fications of which want nothing to render it almoſt Impregnable. Beſides all theſe Con<g ref="char:EOLhyphen"/>ditions the King is willing to reſtore to the Electo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Palatine the Poſſeſſion of <hi>Heidelbergh,</hi> and
+<pb facs="tcp:187658:2" rendition="simple:additions"/>all the Dependances o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> he <gap reason="illegible" resp="#MURP" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>inate, <gap reason="illegible" resp="#MURP" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> on his part, that although he has ſuf<g ref="char:EOLhyphen"/>ficiently demonſtrated, that the Claim of <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Step-Siſter, by reaſon of the Succeſſion of the two laſt Electors, her Father and Brother a<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> well eſtabliſh'd to ſeveral Lands and Fieſs of the ſaid Palatinate; notwithſtanding His Majeſty is willing abſolutely to take upon him to quit his Claim, and repair the Loſſes ſuſtain'd, ſo that the ſaid Elector may continue the peaceable Poſſeſſor of all the ſaid Country; <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd though that after the laſt Dukes refuſal of what was agreed upon in his favour by the Treaty of <hi>Nimeghen,</hi> the Empire has no farther Right to concern it ſelf any more in that Affair: Notwithſtanding the Moſt Chriſtian King is ready to grant the Princes eldeſt Son, the ſame Advantages which the Emperor and the Empire caus'd to be incerted in the Treaty of <hi>Nimeghen,</hi> except <hi>Sarre Lovis, Biche,</hi> and <hi>Hom<g ref="char:EOLhyphen"/>burgh,</hi> for which His Majeſty is willing to condeſcend to an equivalent of equal Revenue. The Moſt Chriſtian King alſo farther agrees, that if any Re<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>union have bee<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> heretofore made, which are not conformable to the Treaties, that Commiſſioners may be appointed on both ſides to examine anew the Reaſons of thoſe that ſhall make their complaints; and in caſe the ſaid Commiſſioners cannot agree, His Majeſty will refer himſelf to the Arbitra<g ref="char:EOLhyphen"/>tion of the Republick of <hi>Venice.</hi> And in conſideration the King deſires a Peace with all the Potentates, with whom he is at War, he will readily agree to ſuch reaſonable Propoſitions as ſhall be offered to regulate the Differences between other Confederates, Princes, and States; ſo that all Conteſts may be brought to an end. Theſe are the Terms upon which the Tran<g ref="char:EOLhyphen"/>quility of the Empire may be quickly Re-eſtabliſhed, and conſequently the Peace of all Chriſtendom, which the Embaſſador of <hi>France</hi> at <hi>Stockholm,</hi> has Orders to impart to the King of <hi>Sweden,</hi> with Command to let him underſtand, that theſe Conditions are to be look'd upon as the ultimate Determinations, upon which His Moſt Chriſtian Majeſty is willing to explain himſelf to the King of <hi>Sweden,</hi> to the end that if he think it meet, he may com<g ref="char:EOLhyphen"/>municate 'em to the Emperor, and to all the Princes and States of the Empire, that ſo they may with the firſt be inform'd of the benefits they may reap by a ſpeedy acceptance of theſe Terms; and which if they refuſe, they can impute it to none but them<g ref="char:EOLhyphen"/>ſelves, the effuſion of Chriſtian Blood, and all the Calamities and Miſchiefs of a War, that ſpreads ſtill more in the Empire, through the Number of thoſe Forces, which are un<g ref="char:EOLhyphen"/>der the Command of the <hi>Dauphin.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>'Tis a Truth now well known to the whole World, that the People of</hi> France <hi>are almoſt quite ex<g ref="char:EOLhyphen"/>hauſted, the moſt certain forerunner of a Kingdoms downfal; and yet the King of</hi> France <hi>ſets up his Auctions for Offices and Imployments, as if his Subjects had the</hi> Spaniſh Indies <hi>in their Pockets: But the Moſt Chriſtian King knows better things, whatever outward ſhews he makes: and this is one of the main Reaſons for which he is ſo weary of the War, and which obliges him to flatter his Sub<g ref="char:EOLhyphen"/>jects, that they ſhall ſuddenly ſee an end of it, all his Letters to the Archbiſhop of</hi> Paris <hi>at St.</hi> Dennis, <hi>all the ſwelling Declarations of his Battels and Victories, in a word, all the Writings he cauſes to be diſperſed abroad, tend only to make the People believe that he is in a fair way to a Peace, though nothing at preſent is more remote from his afflicted Kingdom. The</hi> Confederates <hi>know too well the King of</hi> France <hi>deſires that Bleſſing only to take a little Breath, that he may be able afterward to devour them one after another.</hi>
+               </p>
+               <p>
+                  <hi>Whatever Advantages</hi> France <hi>has Reſerved or Acquir'd during this War, they are not ſo Great as the Charge he is at, in regard thoſe Advantages are only the Monarchs, but the People bear the Ex<g ref="char:EOLhyphen"/>pences; Whoſe Suffrings and Miſeries cannot extend ſo far as the Kings Ambition. 'Tis a real Miſ<g ref="char:EOLhyphen"/>chief, of which every body is ſenſible, and which encreaſes every Day with the Additions of Conqueſt.</hi>
+               </p>
+               <p>Secondly, <hi>Theſe Advantages are <g ref="char:V">Ʋ</g>ncertain, and depend upon the Event of this War; the greater they are, the more are the Back-blows of Fortune to be feared, and a ſingle Misfortune may change the Face of Affairs: There are a Thouſand Accidents not to be foreſeen, and inevitable; and other, fore<g ref="char:EOLhyphen"/>ſeen, that may be avoided, but cannot always be prevented.</hi>
+               </p>
+               <p>Thirdly, <hi>The Fear of loſing them, requires that</hi> France <hi>ſhould ſecure what ſhe has at preſent, and not truſt to the Future, ſince all paſt Advantages remain in ſuſpence, and lyable to the Deciſion of a new Peace.</hi>
+               </p>
+               <p>Fourthly, <hi>So much the rather, becauſe hitherto</hi> France <hi>has made greater Effects againſt the</hi> Con<g ref="char:EOLhyphen"/>federates, <hi>than ſhe has ever been forced to withſtand on their ſide: Beſides, that ſhe has had the good Luck to make her Advantages of ſeveral Diſapointments and Diverſions, which may probably Surceaſe; as the War which ſhe has fomented between the</hi> Emperor <hi>and the</hi> Turks.</p>
+               <p>Fifthly, <hi>He is therefore concern'd to talk of</hi> Peace, <hi>and to endeavour to procure it before the</hi> Confe<g ref="char:EOLhyphen"/>derates <hi>get the <g ref="char:V">Ʋ</g>pperhand, and are in a Condition to enforce him to receive Conditions more moderate than that of the</hi> Truce.</p>
+               <p>Sixthly, <hi>It is Policy in him to offer and conti<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e this</hi> League, <hi>to poſſeſs <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> people <hi>that he really deſires a good</hi> Peace, <hi>and that it is the</hi> Confederates <hi>Fault that they do not ſee an End of the War: For while he Conceals his intended Iniquities under the Name of</hi> Peace, <hi>he gains the appearance of Right on his ſide, and throws upon his Enemies the Blame of all thoſe odious Calamities which he has been (and ſtill continues to be) the Cauſe of. And this Deluſion ſerves h<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> no leſs, both to make the</hi> People Patient, <hi>by ſhewing them how ſeemingly Willing he is to ſhorte<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir Suffri<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gs, and to throw from time to time (as Occaſion offers) ſome Apples of Diſcord among the</hi> Confederates.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Wallis</hi> near <hi>Fleetſtreet,</hi> 1693.</p>
+            <pb facs="tcp:187658:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
